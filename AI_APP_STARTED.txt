@@ -1,0 +1,14 @@
+✅ AI Web App Ready!
+========================
+Static preview: index.html opened
+Full AI server: localhost:5173 (after Node.js + npm run dev)
+
+Files:
+- node_install.bat (install Node.js)
+- run.bat (start Vite server)
+- README.md (guide)
+
+Run: node_install.bat → run.bat
+
+AI Stress Detection live!
+

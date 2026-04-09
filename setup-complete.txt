@@ -1,0 +1,5 @@
+All setup done!
+- Preview: index.html open.
+- Dev server: run.bat (post Node.js).
+- Guide: README.md
+App ready!
