@@ -20,6 +20,9 @@ start index.html
 ```
 
 ## Scripts (package.json)
-- `npm run dev` - Development server
-- `npm run build` - Production build
+- `npm run dev` - Development server (http://localhost:5173)
+- `npm run build` - Production build 
 - `npm run preview` - Preview build
+
+## 🚀 Live Demo
+https://titan-x-alpha.github.io/student-stress-detection-system/
